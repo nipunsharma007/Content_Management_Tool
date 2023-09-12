@@ -174,6 +174,8 @@ document.addEventListener("DOMContentLoaded", function () {
         );
       }
     });
+
+    
   
     // Save content to local storage before leaving the page
     window.addEventListener("beforeunload", () => {
